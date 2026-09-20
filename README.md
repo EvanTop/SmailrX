@@ -1,4 +1,4 @@
-
+> 这个是Smailr的Chrome插件 https://github.com/EvanTop/smailr-mail-assistant  
 
 # SmailrX
 
