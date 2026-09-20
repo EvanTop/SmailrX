@@ -23,6 +23,15 @@ Smailr 邮件助手 Android 应用。由同名 Chrome 扩展迁移而来，支�
 
 从 [Releases](https://github.com/EvanTop/smailrx/releases) 页面下载最新 APK 安装。签名为调试证书，可直接覆盖安装。
 
+
+## 界面
+
+| 图标 | 登陆界面 |
+| --- | --- |
+| <img width="1626" height="3252" alt="047a34c90a930836249c39b59d14b6ed" src="https://github.com/user-attachments/assets/d40ca6fb-d93d-4d34-a886-bd26908b80f4" /> | <img width="1626" height="3252" alt="b0077a1f527d9e3c9a42111fc7e2f4d9" src="https://github.com/user-attachments/assets/5f0c3b8c-d784-42b5-9bdd-007d01de65be" /> |
+
+
+
 ## 构建
 
 ```bash
